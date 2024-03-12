@@ -1,0 +1,9 @@
+{
+  "sandboxId": "moral-quicksilver-58f1392d",
+  "chainId": 15565,
+  "rpcUrl": "https://rpc.buildbear.io/moral-quicksilver-58f1392d",
+  "faucetUrl": "https://faucet.buildbear.io/moral-quicksilver-58f1392d",
+  "explorerUrl": "https://explorer.buildbear.io/moral-quicksilver-58f1392d",
+  "verificationUrl": "https://api.buildbear.io/v1/api/verify/etherscan/moral-quicksilver-58f1392d",
+  "forkingChainId": 1
+}
